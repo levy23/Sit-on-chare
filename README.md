@@ -1,10 +1,9 @@
 # layout
 
-Projekt skończony wykonany podczas warsztatów coders lab.
-Jest to strona zawierająca m.in. rozwijane menu, slider czy walidację formularza.
+Project was created and completed during Coders Lab course.
+The website includes features like: drop down menu, slider or form validation.
 
-Layout posiada slider oparty na JavaScript.
-Projekt zawiera zwalidowany formularz. 
+Layout's slider is designed using JavaScript.
 
-#wykorzystane technologie:
-html, CSS, JavaScrip
+# Used technologies
+html, CSS, JavaScript
