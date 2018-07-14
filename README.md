@@ -1,4 +1,4 @@
-# layout
+# Layout
 
 Project was created and completed during Coders Lab course.
 The website includes features like: drop down menu, slider or form validation.
