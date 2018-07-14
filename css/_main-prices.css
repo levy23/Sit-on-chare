@@ -1,0 +1,116 @@
+/* -------------------------------------------- */
+/* main price list */
+/* -------------------------------------------- */
+.main-price-list {
+    background: #F1F1F1;
+    padding:65px 0;
+}
+.price-list-box {
+    background: #F9F9F9;
+    border: 2px solid #D4D4D4;
+    height: 520px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.price-list-box .price-list-box-title {
+    font-size: 26px;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color);
+    margin-top: 20px;
+}
+
+.price-list-box .price-list-box-price {
+    display: flex;
+    width: 135px;
+    height: 135px;
+    border-radius: 50%;
+    border: 2px solid #D4D4D4;
+    background: #FFF;
+    margin: 35px auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.price-list-box .price-cnt {
+    display: flex;
+    color: #C2C2C2;
+}
+
+.price-list-box .price-cnt .price {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.price-list-box .price-cnt .small {
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+.price-list-box .price-text {
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #C2C2C2;
+}
+
+.price-list-box .price-list-box-points {
+}
+
+.price-list-box .price-list-box-points li {
+    background: #E4E4E4;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0;
+    color: #8F8F8F;
+}
+
+.price-list-box .price-list-box-points li:nth-of-type(even) {
+    background: #F1F1F1;
+}
+
+.price-list-box .price-list-box-btn-cnt {
+    font-size: 16px;
+    margin-top: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.price-list-box .button {
+    font-size: 16px;
+    padding: 4px 25px;
+    margin-top: auto;
+}
+
+/* active */
+.price-list-box--active {
+    background: var(--color);
+    border-color: var(--color);
+}
+
+.price-list-box--active .price-list-box-title {
+    color: #FFF;
+}
+
+.price-list-box--active .price-list-box-price {
+    border-color: var(--color);
+}
+
+.price-list-box--active .price-cnt .price,
+.price-list-box--active .price-cnt .small,
+.price-list-box--active .price-text {
+    color: var(--color)
+}
+
+.price-list-box--active .btn {
+    background: #FFF;
+    color: var(--color);
+    transition:0.5s all;
+}
+.price-list-box--active .btn:hover {
+    opacity:0.7;
+}

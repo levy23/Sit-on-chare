@@ -1,0 +1,16 @@
+Warsztat pocięty wraz ze skryptami (są podpięte na samym dole html).
+Warsztat korzysta ze zmiennych CSS
+
+CSS jest podzielony na oddzielne pliki. Normalnie tak się nie robi
+(bo zwiększamy requesty)
+ale dzięki temu potem łatwiej wam będzie zamienić ten kod na scss.
+Nasza strona nie będzie teraz w internecie, więc to nam nic nie zaszkodzi.
+
+UWAGA:
+Ten kod powinien tobie służyć jako pomoc. jeżeli nie wiesz jak coś ugryźć, możesz podpatrzeć w kodzie.
+Pamiętaj jednak że to czas trenowania. Spróbuj jak najwięcej sam zrobić. Inaczej się nie nauczysz,
+a potem w pracy będą bęcki...
+
+Powodzenia!
+
+

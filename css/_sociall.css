@@ -1,0 +1,34 @@
+/* ------------------------------------------------------------------- */
+/* social icons */
+/* ------------------------------------------------------------------- */
+.social-icons {
+}
+
+.social-icons li {
+    display: inline-block;
+}
+
+.social-icons li .social {
+    width: 35px;
+    height: 35px;
+    text-indent: -999px;
+    overflow: hidden;
+    text-align: left;
+    display: inline-block;
+}
+
+.social-icons .social-flickr {
+    background: url(../images/flickr.png) no-repeat;
+}
+
+.social-icons .social-vimeo {
+    background: url(../images/vimeo.png) no-repeat;
+}
+
+.social-icons .social-pinterest {
+    background: url(../images/pinterest.png) no-repeat;
+}
+
+.social-icons .social-twitter {
+    background: url(../images/twitter.png) no-repeat;
+}
