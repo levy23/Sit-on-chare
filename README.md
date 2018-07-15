@@ -7,3 +7,9 @@ Layout's slider is designed using JavaScript.
 
 # Used technologies
 html, CSS, JavaScript
+
+# Screen:
+
+![N|Solid](http://fcbarcafc.cba.pl/layoutscreen.png)
+
+![N|Solid](http://fcbarcafc.cba.pl/layoutscreen2.png)
